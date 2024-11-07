@@ -6,3 +6,13 @@
 h1{
     color: red;
 }
+.container{
+    max-width: 1220px;    
+    margin: 0 auto;
+}
+img{
+    max-width: 100%;
+}
+.d-none{
+    display: none;
+}
